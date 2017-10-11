@@ -1,0 +1,13 @@
+{
+  "name": "wallaby-1339",
+  "version": "0.0.1",
+  "dependencies": {
+    "@types/mocha": "^2.2.43",
+    "jsdom": "^11.3.0",
+    "jsdom-global": "^3.0.2",
+    "mocha": "^4.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "typescript": "^2.5.3"
+  }
+}
