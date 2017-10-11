@@ -7,7 +7,6 @@ module.exports = () => {
       if (!global.document) {
         require('jsdom-global')();
       }
-    },
-    debug: 1
+    }
   }
 };
